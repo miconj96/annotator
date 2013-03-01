@@ -1,4 +1,4 @@
 annotator
 =========
 
-django
+Python / django
